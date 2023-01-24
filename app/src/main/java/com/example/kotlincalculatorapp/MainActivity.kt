@@ -146,6 +146,7 @@ class MainActivity : AppCompatActivity()
         if (currentDigit != "") {
             list.add(currentDigit.toFloat())
         }
+
         return list
     }
 
